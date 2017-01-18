@@ -1,0 +1,8 @@
+C:\Users\FERNANDES\Desktop\Code\bin\Debug\Code.exe
+C:\Users\FERNANDES\Desktop\Code\bin\Debug\Code.pdb
+C:\Users\FERNANDES\Desktop\Code\bin\Debug\Code.xml
+C:\Users\FERNANDES\Desktop\Code\obj\Debug\Code.Resources.resources
+C:\Users\FERNANDES\Desktop\Code\obj\Debug\Code.vbproj.GenerateResource.Cache
+C:\Users\FERNANDES\Desktop\Code\obj\Debug\Code.exe
+C:\Users\FERNANDES\Desktop\Code\obj\Debug\Code.xml
+C:\Users\FERNANDES\Desktop\Code\obj\Debug\Code.pdb
